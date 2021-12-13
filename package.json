@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "command line rpg game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdoneq7/jest-another-RPG.git"
+  },
+  "author": "Brian Done",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdoneq7/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/bdoneq7/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
